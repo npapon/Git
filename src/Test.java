@@ -10,4 +10,7 @@ public class Test {
 
     }
 
+    public void addition( int a, int b ) {
+    }
+
 }
