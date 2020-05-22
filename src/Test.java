@@ -13,4 +13,8 @@ public class Test {
     public void addition( int a, int b ) {
     }
 
+    public void methodeC() {
+        System.out.println( "C" );
+    }
+
 }
