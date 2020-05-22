@@ -1,5 +1,5 @@
 
 public class Master {
 
-    int a;
+    int b;
 }
